@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://contact-keeper-cloud-private.herokuapp.com/login)
+
 
 ## Getting Started
 
@@ -28,7 +28,7 @@
 
 ### Install
 
-**Now to clone it to your local machine please open your terminal and paste this code `https://github.com/vic778/contact-keeper.git`**
+**Now to clone it to your local machine please open your terminal and paste this code `https://github.com/vic778/mern-project-like-instagram`**
 
 **Then you can go into the directory by typig `cd contact-keeper-mern-project`**
 
@@ -50,7 +50,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/vic778/contact-keeper.git/pulls).
+Feel free to check the [issues page](https://github.com/vic778/mern-project-like-instagram).
 
 ## Show your support
 
@@ -63,4 +63,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/vic778/contact-keeper/blob/deploy/LICENSE) licensed.
+This project is [MIT](https://github.com/vic778/mern-project/blob/deploy/LICENSE) licensed.
