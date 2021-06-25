@@ -30,7 +30,7 @@
 
 **Now to clone it to your local machine please open your terminal and paste this code `https://github.com/vic778/mern-project-like-instagram`**
 
-**Then you can go into the directory by typig `cd contact-keeper-mern-project`**
+**Then you can go into the directory by typig `cd mern-project-like-instagram`**
 
 **Finally just type this command `npm install` this will install all of the dependecies for the project and you will need to do the same thing by typing `cd client` and run another `npm install` to finish installing all of the react scripts**
 
